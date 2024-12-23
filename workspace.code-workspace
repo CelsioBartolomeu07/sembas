@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\novos\\EscolaArt"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sembas"
+	}
+}
